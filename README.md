@@ -3,7 +3,7 @@
 ![Ion4 on every platform](images/A12_family_of_devices_icons.jpg)
 
 The live Ion4 crossing dashboard as an app, with voice alerts: "Train coming. Gates closing."
-Live site: https://ion4-crossing.pages.dev
+Live site: https://ion4.hnkiot.com
 
 ![One crossing, every screen](images/A01_every_screen.jpg)
 
@@ -13,8 +13,8 @@ Live site: https://ion4-crossing.pages.dev
 |---|---|
 | Windows | [Download the installer](https://github.com/henockhnk092-dot/ion4-smart-crossing-apps/releases/latest) (`Ion4-Smart-Crossing-Setup.exe`) |
 | Linux (x64) | [Download the tar.gz](https://github.com/henockhnk092-dot/ion4-smart-crossing-apps/releases/latest) |
-| Android | APK on the [Download page](https://ion4-crossing.pages.dev/#download) |
-| Browser extension | Chrome, Edge, Brave, Opera: zip on the [Download page](https://ion4-crossing.pages.dev/#download) |
+| Android | APK on the [Download page](https://ion4.hnkiot.com/#download) |
+| Browser extension | Chrome, Edge, Brave, Opera: zip on the [Download page](https://ion4.hnkiot.com/#download) |
 | iPhone, iPad, Mac, Chromebook | Open the site and add it to your home screen or dock |
 
 ## Screens
